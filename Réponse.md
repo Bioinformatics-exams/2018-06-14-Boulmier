@@ -35,7 +35,8 @@ Deuxième variant : http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtMode
 ### Q12
 Le gène se trouve sur le brin anti-sens.
 ### Q13
-
+Le transcrit NM_004992.3 comporte 4 exon.
 ### Q14
-
+Ce variant se trouve dans l'exon 4.
 ## Exercice 2
+### Q1

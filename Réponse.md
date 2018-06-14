@@ -40,3 +40,20 @@ Le transcrit NM_004992.3 comporte 4 exon.
 Ce variant se trouve dans l'exon 4.
 ## Exercice 2
 ### Q1
+a) OMIM database (ou Online Mendelian Inheritance in Manest database) une base de données, a savoir une collection organisé de données sur internet de toutes les maladies génètique connues. (source : wikipedia)
+b) DDG2P gene list (oyu Developmental Disorders Genotype-Phenotype Database) est une liste organisée de gènes associés aux troubles du développement. (source : https://decipher.sanger.ac.uk/info/ddg2)
+### Q2
+
+### Q3
+a) NM signifie que l'on est sur un transcrit.
+001190274 est le nuémro du transcrit.
+1 est la version du transcrit.
+b) HGVS est une nomenclature de variant de séquence nucléique crée par la Humain Genome Variation Society. 
+c) GRCh37/hg19 human genome assembly est la base de données de séquences d'acides nucléiques humain, le génome de référence humains qui est l'assemblage de plusieurs génome de plusieurs donneurs.
+### Q4
+
+### Q5
+
+### Q6
+
+### Q7

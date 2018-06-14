@@ -43,7 +43,8 @@ Ce variant se trouve dans l'exon 4.
 a) OMIM database (ou Online Mendelian Inheritance in Manest database) une base de données, a savoir une collection organisé de données sur internet de toutes les maladies génètique connues. (source : wikipedia)
 b) DDG2P gene list (oyu Developmental Disorders Genotype-Phenotype Database) est une liste organisée de gènes associés aux troubles du développement. (source : https://decipher.sanger.ac.uk/info/ddg2)
 ### Q2
-
+Cette méthode de classification utilise critères utilisant des types types de données variables ( p. Ex. Données sur la population, données de calcul, données fonctionnelles, données de ségrégation, etc. ) pour classer des variants dans 5 catégories à savoir  «pathogène», «probablement pathogène», «significatif incertain», «probablement bénin» et «bénin». 
+Il existe effectivemeent d'autres méthodes de classification.
 ### Q3
 a) NM signifie que l'on est sur un transcrit.
 001190274 est le nuémro du transcrit.

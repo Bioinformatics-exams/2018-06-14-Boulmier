@@ -51,7 +51,7 @@ a) NM signifie que l'on est sur un transcrit.
 b) HGVS est une nomenclature de variant de séquence nucléique crée par la Humain Genome Variation Society. 
 c) GRCh37/hg19 human genome assembly est la base de données de séquences d'acides nucléiques humain, le génome de référence humains qui est l'assemblage de plusieurs génome de plusieurs donneurs.
 ### Q4
-
+La technique utilisé pour explorer le génome des patients 1 et 2 est la technique Illumina. 
 ### Q5
 
 ### Q6
